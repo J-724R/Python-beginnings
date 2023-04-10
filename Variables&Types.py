@@ -22,3 +22,10 @@ if isinstance(myfloat, float) and myfloat == 10.0:
     print("Float: %f" % myfloat)
 if isinstance(myint, int) and myint == 20:
     print("Integer: %d" % myint)
+
+
+print("""
+  My dog Ryuk is the best dog around
+  He's favorite food is el pollito
+  and love going outside even when it's raining
+""")
